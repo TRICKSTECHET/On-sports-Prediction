@@ -4,16 +4,16 @@
     "slug": "tth-betting-predictions",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/myicon.png",
+    "icon": "https://github.com/TRICKSTECHET/On-sports-Prediction/blob/main/app_icon.png",
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/app_icon.png",
+        "foregroundImage": "https://github.com/TRICKSTECHET/On-sports-Prediction/blob/main/app_icon.png",
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.tthdev.bettingpredictions"
     },
     "web": {
-      "favicon": "./assets/app_icon.png"
+      "favicon": "https://github.com/TRICKSTECHET/On-sports-Prediction/blob/main/app_icon.png"
     }
   }
 }
