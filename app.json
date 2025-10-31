@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "On Sports Prediction",
+    "slug": "tth-betting-predictions",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/myicon.png",
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app_icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.tthdev.bettingpredictions"
+    },
+    "web": {
+      "favicon": "./assets/app_icon.png"
+    }
+  }
+}
